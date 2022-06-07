@@ -49,34 +49,60 @@ the SeCoNd 2
 14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.
 `cat >> tf_4.txt`
 wfwfwfwf
+
 sgsgsssg
+
 qweqweqwe
+
 ddgsdgsdg
+
 wwerqwrq
+
 sdfsdfsd
+
 wqrewwe
+
 dgfdgdf
+
 wwwrqwf
+
 sdsdfsdfs
+
 vddfgf
+
 werewrwe
+
 dssdffs
+
 dfdffd
+
 wwwrwrrw
 
  15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.
 `cat >> tf_5.txt`
 1
+
 2
+
 3
+
 4
+
 5
+
 6
+
 7
+
 8
+
 9
+
 10
+
 1
+
+
 
 13
 
